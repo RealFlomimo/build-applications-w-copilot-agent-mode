@@ -1,7 +1,7 @@
 {
   "name": "backend",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "OctoFit Tracker Backend API",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node src/index.ts",
